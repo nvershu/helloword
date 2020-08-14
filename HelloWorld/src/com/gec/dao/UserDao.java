@@ -11,4 +11,6 @@ package com.gec.dao;
 public interface UserDao {
 //李四的代码
 	void add() ;
+	//李四的代码2
+	void add1();
 }
