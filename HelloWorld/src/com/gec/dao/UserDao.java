@@ -13,4 +13,8 @@ public interface UserDao {
 	void add() ;
 	//李四的代码2
 	void add1();
+	//张三插一脚
+	void add2();
+	//张三插一脚
+		void add32();
 }
