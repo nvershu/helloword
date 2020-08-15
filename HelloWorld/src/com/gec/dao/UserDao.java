@@ -17,4 +17,5 @@ public interface UserDao {
 	void add2();
 	//张三插两脚
 	void add3();
+	
 }
